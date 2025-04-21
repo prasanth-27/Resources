@@ -50,3 +50,7 @@ System Design was HARD until I Learned these 30 Concepts:
 
 I wrote a detailed article explaining all of these 30 concepts with diagrams and examples.
 https://blog.algomaster.io/p/30-system-design-concepts
+
+
+prep roadmap
+https://dev.to/somadevtoo/the-software-developer-interview-prep-roadmap-with-resources-332l
