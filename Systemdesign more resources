@@ -1,0 +1,69 @@
+If I had to start over with system design now, here's what I'd learn (all free):
+
+1 How Databases Keep Passwords Securely
+
+↳ https://newsletter.systemdesign.one/p/how-to-store-passwords-in-database
+
+2 Saga Design Pattern
+
+↳ https://newsletter.systemdesign.one/p/saga-design-pattern
+
+3 Redis Use Cases
+
+↳ https://newsletter.systemdesign.one/p/redis-use-cases
+
+4 Actor Model
+
+↳ https://newsletter.systemdesign.one/p/actor-model
+
+5 Consistent Hashing
+
+↳ https://systemdesign.one/consistent-hashing-explained/
+
+6 Service Discovery
+
+↳ https://systemdesign.one/what-is-service-discovery/
+
+7 Bloom Filters Explained
+
+↳ https://systemdesign.one/bloom-filters-explained/
+
+8 Idempotent API
+
+↳ https://newsletter.systemdesign.one/p/idempotent-api
+
+9 Protocol Buffers vs JSON
+
+↳ https://newsletter.systemdesign.one/p/protocol-buffers-vs-json
+
+10 What Happens When You Type a URL Into Your Browser?
+
+↳ https://systemdesign.one/what-happens-when-you-type-url-into-your-browser/
+
+11 Capacity Planning in Software Engineering
+
+↳ https://systemdesign.one/back-of-the-envelope/
+
+12 How to Scale an App to 10 Million Users on AWS
+
+↳ https://newsletter.systemdesign.one/p/aws-scale
+
+13 Modular Monolith Architecture
+
+↳ https://newsletter.systemdesign.one/p/modular-monolith
+
+14 Microservices Lessons From Netflix
+
+↳ https://newsletter.systemdesign.one/p/netflix-microservices
+
+What else should make this list?
+
+——
+
+👋 PS - Join 140K+ engineers in my free newsletter learning system design:
+
+→ https://newsletter.systemdesign.one
+
+———
+
+♻ Repost to help others start with system design.
