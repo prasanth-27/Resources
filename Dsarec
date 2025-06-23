@@ -1,0 +1,206 @@
+# 3 Month DSA RoadMap
+
+### **Month 1: Foundations and Core Data Structures**
+
+**Weeks 1-2: Arrays, Strings, and Hashing**
+
+- **Topics to cover:**
+    - Arrays: Basics, Sliding Window, Two-pointer technique, Sorting algorithms.
+    - Strings: Palindrome, Anagram, Pattern searching (KMP, Rabin-Karp).
+    - Hashing: HashMap, HashSet, Counting frequency of elements, Hash functions.
+- **Practice Problems:**
+    - Two Sum, Maximum Subarray, Trapping Rain Water, Longest Substring Without Repeating Characters.
+- **Key Concepts:**
+    - Sorting (Merge Sort, Quick Sort).
+    - Prefix Sum, Kadane’s Algorithm.
+
+**Weeks 3-4: Linked Lists, Stacks, and Queues**
+
+- **Topics to cover:**
+    - Linked Lists: Single/Doubly Linked List, Fast and Slow pointers, Cycle detection.
+    - Stacks and Queues: LRU Cache, Stack-based problems (Next Greater Element), Monotonic Stack.
+- **Practice Problems:**
+    - Linked List Cycle, Reverse Linked List, LRU Cache, Min Stack, Evaluate Reverse Polish Notation.
+- **Key Concepts:**
+    - Implementing basic operations (insertion, deletion, etc.).
+    - Stack/Queue applications (e.g., in DFS, BFS).
+
+### **Month 2: Recursion, Trees, and Graphs**
+
+**Weeks 5-6: Recursion and Backtracking**
+
+- **Topics to cover:**
+    - Recursion basics, Memoization.
+    - Backtracking: Subsets, Permutations, N-Queens, Sudoku Solver.
+- **Practice Problems:**
+    - Subsets, Word Search, Generate Parentheses, Combination Sum.
+- **Key Concepts:**
+    - Recursive thinking.
+    - Memoization vs. Tabulation (DP).
+
+**Weeks 7-8: Trees (Binary and BST)**
+
+- **Topics to cover:**
+    - Binary Trees: Inorder, Preorder, Postorder traversal.
+    - Binary Search Trees: Insertion, Deletion, Lowest Common Ancestor (LCA).
+    - Tree problems: Depth-first search (DFS), Breadth-first search (BFS).
+- **Practice Problems:**
+    - Binary Tree Inorder Traversal, Binary Search Tree Iterator, Path Sum, Serialize and Deserialize Binary Tree.
+- **Key Concepts:**
+    - Tree traversal techniques (Iterative, Recursive).
+    - Tree Depth/Height, Balanced Trees, AVL, Red-Black Trees (basic understanding).
+
+### **Month 3: Advanced Topics and Dynamic Programming**
+
+**Weeks 9-10: Graphs**
+
+- **Topics to cover:**
+    - Graph Representations (Adjacency List/Matrix).
+    - Traversal: BFS, DFS.
+    - Shortest Path Algorithms: Dijkstra, Bellman-Ford.
+    - Union-Find (Disjoint Set).
+- **Practice Problems:**
+    - Clone Graph, Number of Islands, Graph Valid Tree, Course Schedule.
+- **Key Concepts:**
+    - Detecting cycles in graphs.
+    - Minimum Spanning Tree (Prim’s, Kruskal’s).
+
+**Weeks 11-12: Dynamic Programming (DP)**
+
+- **Topics to cover:**
+    - DP Fundamentals: Memoization and Tabulation.
+    - Common DP Problems: Knapsack, Fibonacci, Longest Increasing Subsequence (LIS), Edit Distance, Partition Equal Subset Sum.
+- **Practice Problems:**
+    - Climbing Stairs, House Robber, Longest Palindromic Substring, Decode Ways, Coin Change.
+- **Key Concepts:**
+    - Overlapping subproblems, Optimal substructure.
+    - Space and time optimization techniques (e.g., converting recursion to DP).
+
+### **Additional Preparation Tips:**
+
+- **Mock Interviews:** Practice with mock interviews regularly to simulate real-world conditions.
+- **Coding Platforms:** LeetCode, HackerRank, Codeforces, and InterviewBit are great for consistent practice.
+- **System Design:** Since you are targeting product-based companies, spend some time on system design basics (even though it's not DSA, it's often asked).
+
+### Important DSA Questions Topic Wise
+
+### 1. **Array and String Manipulation**
+
+- **Common Topics:** Sliding Window, Two Pointers, Sorting.
+
+**Questions:**
+
+1. **Two Sum** (LeetCode 1)
+2. **Maximum Subarray (Kadane’s Algorithm)** (LeetCode 53)
+3. **Longest Substring Without Repeating Characters** (LeetCode 3)
+4. **Trapping Rain Water** (LeetCode 42)
+5. **Container With Most Water** (LeetCode 11)
+6. **Product of Array Except Self** (LeetCode 238)
+7. **Find Minimum in Rotated Sorted Array** (LeetCode 153)
+8. **Merge Intervals** (LeetCode 56)
+9. **3Sum** (LeetCode 15)
+10. **Longest Palindromic Substring** (LeetCode 5)
+
+### 2. **Linked Lists**
+
+- **Common Topics:** Reversal, Cycle Detection, Fast & Slow Pointers.
+
+**Questions:**
+
+1. **Reverse Linked List** (LeetCode 206)
+2. **Linked List Cycle** (LeetCode 141)
+3. **Merge Two Sorted Lists** (LeetCode 21)
+4. **Remove Nth Node From End of List** (LeetCode 19)
+5. **Intersection of Two Linked Lists** (LeetCode 160)
+6. **Palindrome Linked List** (LeetCode 234)
+7. **Copy List with Random Pointer** (LeetCode 138)
+8. **Flatten a Multilevel Doubly Linked List** (LeetCode 430)
+9. **Add Two Numbers** (LeetCode 2)
+10. **LRU Cache** (LeetCode 146)
+
+### 3. **Stacks and Queues**
+
+- **Common Topics:** Monotonic Stack, Queue-based BFS.
+
+**Questions:**
+
+1. **Valid Parentheses** (LeetCode 20)
+2. **Min Stack** (LeetCode 155)
+3. **Daily Temperatures** (LeetCode 739)
+4. **Evaluate Reverse Polish Notation** (LeetCode 150)
+5. **Next Greater Element I** (LeetCode 496)
+6. **Binary Tree Inorder Traversal** (LeetCode 94, iterative solution with stack)
+7. **Sliding Window Maximum** (LeetCode 239)
+8. **Design Circular Queue** (LeetCode 622)
+9. **Decode String** (LeetCode 394)
+10. **Implement Queue using Stacks** (LeetCode 232)
+
+### 4. **Recursion and Backtracking**
+
+- **Common Topics:** Subsets, Permutations, Combination Sum.
+
+**Questions:**
+
+1. **Subsets** (LeetCode 78)
+2. **Permutations** (LeetCode 46)
+3. **Combination Sum** (LeetCode 39)
+4. **Generate Parentheses** (LeetCode 22)
+5. **Word Search** (LeetCode 79)
+6. **Letter Combinations of a Phone Number** (LeetCode 17)
+7. **Sudoku Solver** (LeetCode 37)
+8. **N-Queens** (LeetCode 51)
+9. **Restore IP Addresses** (LeetCode 93)
+10. **Palindrome Partitioning** (LeetCode 131)
+
+### 5. **Trees (Binary Trees & BST)**
+
+- **Common Topics:** DFS, BFS, Tree Traversals, Binary Search Tree.
+
+**Questions:**
+
+1. **Binary Tree Inorder Traversal** (LeetCode 94)
+2. **Binary Tree Level Order Traversal** (LeetCode 102)
+3. **Validate Binary Search Tree** (LeetCode 98)
+4. **Lowest Common Ancestor of a Binary Tree** (LeetCode 236)
+5. **Symmetric Tree** (LeetCode 101)
+6. **Construct Binary Tree from Preorder and Inorder Traversal** (LeetCode 105)
+7. **Balanced Binary Tree** (LeetCode 110)
+8. **Serialize and Deserialize Binary Tree** (LeetCode 297)
+9. **Path Sum** (LeetCode 112)
+10. **Kth Smallest Element in a BST** (LeetCode 230)
+
+### 6. **Graphs**
+
+- **Common Topics:** DFS, BFS, Shortest Path, Union-Find.
+
+**Questions:**
+
+1. **Clone Graph** (LeetCode 133)
+2. **Number of Islands** (LeetCode 200)
+3. **Course Schedule** (LeetCode 207)
+4. **Graph Valid Tree** (LeetCode 261)
+5. **Pacific Atlantic Water Flow** (LeetCode 417)
+6. **Word Ladder** (LeetCode 127)
+7. **Alien Dictionary** (LeetCode 269)
+8. **Accounts Merge** (LeetCode 721)
+9. **Minimum Spanning Tree (Kruskal’s/Prim’s)** (LeetCode: Prim's Algorithm or custom implementation)
+10. **Shortest Path in a Grid with Obstacles Elimination** (LeetCode 1293)
+
+### 7. **Dynamic Programming (DP)**
+
+- **Common Topics:** Memoization, Tabulation, Knapsack, Fibonacci Variants.
+
+**Questions:**
+
+1. **Climbing Stairs** (LeetCode 70)
+2. **House Robber** (LeetCode 198)
+3. **Longest Increasing Subsequence** (LeetCode 300)
+4. **Coin Change** (LeetCode 322)
+5. **Longest Palindromic Substring** (LeetCode 5)
+6. **Partition Equal Subset Sum** (LeetCode 416)
+7. **Decode Ways** (LeetCode 91)
+8. **Unique Paths** (LeetCode 62)
+9. **Edit Distance** (LeetCode 72)
+10. **Burst Balloons** (LeetCode 312)
+
+[Microservice Roadmap](https://www.notion.so/Microservice-Roadmap-2113a456da268065986ade91e36aaa36?pvs=21)
