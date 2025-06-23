@@ -54,3 +54,5 @@ https://blog.algomaster.io/p/30-system-design-concepts
 
 prep roadmap
 https://dev.to/somadevtoo/the-software-developer-interview-prep-roadmap-with-resources-332l
+
+https://grizzly-satin-3d9.notion.site/Microservice-Roadmap-2113a456da268065986ade91e36aaa36?fbclid=PAQ0xDSwLGHIpleHRuA2FlbQIxMAABp5qo5JmzF5p6nu5z9tTIX5BYeuTgT_Q_ULmg0XFwzPexfXY_uooCyz3UnCS6_aem_cQzSy79rAwuD2OSJ6ktD_w
