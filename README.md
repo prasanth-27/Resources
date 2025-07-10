@@ -56,3 +56,7 @@ prep roadmap
 https://dev.to/somadevtoo/the-software-developer-interview-prep-roadmap-with-resources-332l
 
 https://grizzly-satin-3d9.notion.site/Microservice-Roadmap-2113a456da268065986ade91e36aaa36?fbclid=PAQ0xDSwLGHIpleHRuA2FlbQIxMAABp5qo5JmzF5p6nu5z9tTIX5BYeuTgT_Q_ULmg0XFwzPexfXY_uooCyz3UnCS6_aem_cQzSy79rAwuD2OSJ6ktD_w
+
+
+dsa
+https://www.linkedin.com/posts/sanchitnarula_amazon-wont-care-how-many-leetcode-questions-activity-7348569414096646145-Zl2t?utm_source=share&utm_medium=member_android&rcm=ACoAACMqfdoBZ_UmbK5ze_LpVn5C56ub-FMeOYI
