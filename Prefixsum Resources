@@ -1,0 +1,64 @@
+🧠 Classic Problems to Build Prefix Sum / Sweep Line Intuition
+✅ 1. Maximum Number of Overlapping Intervals
+Problem: Given a list of intervals, find the maximum number of intervals that overlap at the same time.
+
+Why it helps: Forces you to think of interval starts as +1 and ends as -1.
+
+Pattern: Count active intervals at each "event" point.
+
+📚 LeetCode 252: Meeting Rooms
+📚 LeetCode 253: Meeting Rooms II
+
+✅ 2. My Calendar I / II / III
+Problem: Book intervals and track overlapping bookings (up to 2, 3, etc.)
+
+Why it helps: Real-time insertions, forces thinking in sweep line terms
+
+Advanced Tip: TreeMap / Segment Tree / Line Sweep
+
+📚 LeetCode 729, 731, 732
+
+✅ 3. Employee Free Time
+Problem: Given multiple employees' work intervals, find the times when all employees are free.
+
+Why it helps: Teaches you to track when coverage drops to zero, the opposite of being “powerful.”
+
+📚 LeetCode 759: Employee Free Time
+
+✅ 4. Car Pooling
+Problem: Given trips [numPassengers, from, to], can you drive them without exceeding capacity?
+
+Why it helps: You model passengers getting on (+n) and off (-n), very similar to interval change points.
+
+📚 LeetCode 1094: Car Pooling
+
+✅ 5. Maximum Population Year
+Problem: Given birth and death years, find the year with the maximum population.
+
+Why it helps: Exactly a prefix sum idea — +1 at birth year, -1 at death year.
+
+📚 LeetCode 1854: Maximum Population Year
+
+✅ 6. Range Addition / Range Sum Queries
+Problem: Modify ranges efficiently and query final values.
+
+Why it helps: Teaches the pure "difference array" idea, very close to how prefix sum works on intervals.
+
+📚 LeetCode 370: Range Addition
+
+✅ 7. Count Number of Events That Intersect With a Given Query
+Problem: Given many intervals and queries, count how many intervals each query point lies in.
+
+Why it helps: This is the most direct form of "How many intervals cover x?"
+
+📚 LeetCode 1851: Minimum Interval to Include Each Query
+
+🧪 Practice Strategy
+Solve 2–3 of these problems with brute force first
+
+Look for bottlenecks — usually time spent iterating over ranges
+
+Ask: Can I track only when coverage changes?
+
+Implement with a sweep line or prefix sum approach
+
