@@ -67,3 +67,79 @@ What else should make this list?
 ———
 
 ♻ Repost to help others start with system design.
+
+
+
+If you want to get started with system design
+
+(I'm not joking), learn these 14 concepts:
+
+1 Idempotent API:
+
+↳ https://newsletter.systemdesign.one/p/idempotent-api
+
+2 Saga Design Pattern:
+
+↳ https://newsletter.systemdesign.one/p/saga-design-pattern
+
+3 How JWT Works:
+
+↳ https://newsletter.systemdesign.one/p/how-jwt-works
+
+4 Consistent Hashing:
+
+↳ https://systemdesign.one/consistent-hashing-explained/
+
+5 How Kafka Works:
+
+↳ https://newsletter.systemdesign.one/p/how-kafka-works
+
+6 Service Discovery:
+
+↳ https://systemdesign.one/what-is-service-discovery/
+
+7 Microservices Lessons From Netflix:
+
+↳ https://newsletter.systemdesign.one/p/netflix-microservices
+
+8 Best Practices for API Design:
+
+↳ https://newsletter.systemdesign.one/p/best-practices-for-api-design
+
+9 How API Gateway Works:
+
+↳ https://newsletter.systemdesign.one/p/how-api-gateway-works
+
+10 Modular Monolith Architecture:
+
+↳ https://newsletter.systemdesign.one/p/modular-monolith
+
+11 How Databases Keep Passwords Securely:
+
+↳ https://newsletter.systemdesign.one/p/how-to-store-passwords-in-database
+
+12 Redis Use Cases:
+
+↳ https://newsletter.systemdesign.one/p/redis-use-cases
+
+13 How to Scale an App to 10 Million Users on AWS:
+
+↳ https://newsletter.systemdesign.one/p/aws-scale
+
+14 Eleven System Design Concepts Explained:
+
+↳ https://newsletter.systemdesign.one/p/11-system-design-concepts-explained
+
+What else should make this list?
+
+——
+
+👋 PS - Want my System Design Playbook for free?
+
+Join my newsletter with 170K+ software engineers:
+
+→ http://newsletter.systemdesign.one/welcome
+
+———
+
+♻ Repost to help others learn system design.
